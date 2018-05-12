@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '34407'
     url: http://www.gutenberg.org/2009/agents/34407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30164#Le-monete-di-Venezia-descritte-ed-illustrate-da-Nicol--Papadopoli-Aldobrandini-v.-1Con-disegn_
 gutenberg_bookshelf: IT Numismatica
 gutenberg_issued: '2009-10-02'
 gutenberg_type: Text
