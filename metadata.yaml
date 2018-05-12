@@ -1,0 +1,36 @@
+_repo: Le-monete-di-Venezia-descritte-ed-illustrate-da-Nicol--Papadopoli-Aldobrandini-v.-1Con-disegn__30164
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Papadopoli Aldobrandini, Nicolò
+    aliases:
+    - Papadopoli, Nicolò
+    - Aldobrandini, Nicolò Papadopoli
+    - Papadopoli Aldobrandini, Nicolo
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '34407'
+    url: http://www.gutenberg.org/2009/agents/34407
+description: ''
+gutenberg_bookshelf: IT Numismatica
+gutenberg_issued: '2009-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30164'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CJ'
+- !lcsh 'Medals -- Italy -- Venice'
+- !lcsh 'Coins, Italian'
+- !lcsh 'Numismatics -- Italy -- Venice'
+title: 'Le monete di Venezia descritte ed illustrate da Nicolò Papadopoli Aldobrandini,
+  v. 1
+
+  Con disegni di C. Kunz'
+url: http://www.gutenberg.org/ebooks/30164
